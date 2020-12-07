@@ -4,19 +4,6 @@
     justify-content: center;
     width: 100%;
 }
-#nav-box{
-    display: inline;
-}
-
-#right-nav{
-    float: left;
-  
-}
-#left-nav{
-    float: left;
-   
-}
-
 
 #search{
     margin-top: 30px;
