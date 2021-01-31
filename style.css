@@ -13,3 +13,22 @@
 #search-box{
     margin-bottom: 18px;
 }
+
+li{
+    font-size: small;
+    text-decoration-line: none;
+    text-decoration-style: solid;
+    display: inline;
+    float: right;
+    padding: 10px;
+}
+
+
+
+#sign{
+    color: white;
+    background-color: #4285f4;
+    border: 5px solid #4285f4;
+    margin-top: -10px;
+    border-radius: 4px;
+}
