@@ -14,7 +14,7 @@
     margin-bottom: 18px;
 }
 
-li{
+.nav{
     font-size: small;
     text-decoration-line: none;
     text-decoration-style: solid;
@@ -23,7 +23,10 @@ li{
     padding: 10px;
 }
 
-
+a{
+    color: rgba(0, 0, 0, 0.87);
+    text-decoration: none;
+}
 
 #sign{
     color: white;
@@ -31,4 +34,26 @@ li{
     border: 5px solid #4285f4;
     margin-top: -10px;
     border-radius: 4px;
+}
+
+.foota{
+    color: rgb(112, 117, 122);
+}
+
+.foot{
+    
+    display: inline;
+    float: left;
+    text-decoration-line: none;
+    text-decoration-style: solid;
+    padding-top: 20px;
+    padding-right: 20px;
+}
+
+#footer{
+    background-color: rgba(0, 0, 0, 0.10);
+    position: fixed;
+    bottom: 0;
+    padding-bottom: 20px;
+    width: 100%;
 }
